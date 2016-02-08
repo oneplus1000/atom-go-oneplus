@@ -1,0 +1,18 @@
+{
+  "name": "atom-go-oneplus",
+  "main": "./lib/atom-go-oneplus",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "activationCommands": {
+    "atom-text-editor": ["atom-go-oneplus:run-definition","atom-go-oneplus:run-describe","atom-go-oneplus:run-referrers","atom-go-oneplus:run-install","atom-go-oneplus:current-line"]
+  },
+  "repository": "https://github.com/oneplus1000/atom-go-oneplus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+      "atom-message-panel": "^1.2.4"
+  }
+}

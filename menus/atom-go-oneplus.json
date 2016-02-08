@@ -1,0 +1,11 @@
+{
+	"context-menu": {
+		"atom-text-editor": [{
+			"label": "oneplus: go-oracle describe",
+			"command": "atom-go-oneplus:run-describe"
+		}, {
+			"label": "oneplus: get breakpoint cmd",
+			"command": "atom-go-oneplus:current-line"
+		}]
+	}
+}
