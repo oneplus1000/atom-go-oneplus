@@ -1,10 +1,23 @@
 {
+	"menu": [{
+		"label": "Packages",
+		"submenu": [{
+			"label": "Oneplus",
+			"submenu": [{
+				"label": "errcheck",
+				"command": "atom-go-oneplus:run-errcheck"
+			}, {
+				"label": "go install",
+				"command": "atom-go-oneplus:run-install"
+			}]
+		}]
+	}],
 	"context-menu": {
 		"atom-text-editor": [{
-			"label": "oneplus: go-oracle describe",
+			"label": "Oneplus: go-oracle describe",
 			"command": "atom-go-oneplus:run-describe"
 		}, {
-			"label": "oneplus: get breakpoint cmd",
+			"label": "Oneplus: get breakpoint cmd",
 			"command": "atom-go-oneplus:current-line"
 		}]
 	}
