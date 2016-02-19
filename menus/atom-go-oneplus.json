@@ -19,6 +19,9 @@
 		}, {
 			"label": "Oneplus: get breakpoint cmd",
 			"command": "atom-go-oneplus:current-line"
+		}, {
+			"label": "Oneplus: go-oracle referrers",
+			"command": "atom-go-oneplus:run-referrers"
 		}]
 	}
 }
