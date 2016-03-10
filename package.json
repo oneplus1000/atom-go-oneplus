@@ -5,7 +5,7 @@
   "private": true,
   "description": "",
   "activationCommands": {
-    "atom-text-editor": ["atom-go-oneplus:run-definition","atom-go-oneplus:run-describe","atom-go-oneplus:run-referrers","atom-go-oneplus:run-install","atom-go-oneplus:current-line","atom-go-oneplus:run-errcheck"]
+    "atom-text-editor": ["atom-go-oneplus:run-definition","atom-go-oneplus:run-describe","atom-go-oneplus:run-referrers","atom-go-oneplus:run-install","atom-go-oneplus:current-line","atom-go-oneplus:run-errcheck","atom-go-oneplus:run-godef"]
   },
   "repository": "https://github.com/oneplus1000/atom-go-oneplus",
   "license": "MIT",

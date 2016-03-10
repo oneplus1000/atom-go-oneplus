@@ -22,6 +22,9 @@
 		}, {
 			"label": "Oneplus: go-oracle referrers",
 			"command": "atom-go-oneplus:run-referrers"
+		},{
+			"label": "Oneplus: godef",
+			"command": "atom-go-oneplus:run-godef"
 		}]
 	}
 }
