@@ -1,6 +1,5 @@
 {
   "atom-text-editor": {
-    "f1": "atom-go-oneplus:run-describe",
-	"f5": "atom-go-oneplus:run-install"
+    "f1": "atom-go-oneplus:run-describe"
   }
 }
